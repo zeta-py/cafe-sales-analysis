@@ -1,9 +1,7 @@
-# cafe-sales-analysis
-A project involving data cleaning, information extraction, and visualization based on a coffee shop sales dataset (from Kaggle).
-I started a month ago. any corrections or feedback are welcome!
+# ventas-cafe-análisis
 Un proyecto que incluye limpieza de datos, datos como productos que mas dinero ingresan y gráficos basados en una base de datos de una cafetería (de kaggle)
 Empecé hace un mes. ¡cualquier corrección o critica es bienvenida!
-## Resultados (highlights)
+## Resultados
 - Producto con mayor ingreso total: **Salad** (~$17,320)
 - Método de pago más usado: **Digital Wallet**
 - Ticket promedio: **In-store** > Takeaway (según query SQL)
